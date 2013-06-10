@@ -1,0 +1,6 @@
+<manifest>
+    <project path="device/acer/swing" name="Vachounette/acer_s500_cm10_device_tree" revision="master" />
+    <project path="vendor/acer/swing" name="Vachounette/acer_s500_cm10_vendor" revision="master" />
+    <project path="kernel/acer/swing" name="Vachounette/kernel_s500_cm10" revision="master" />
+    <project path="device/acer/swing/ramdisk" name="Vachounette/acer_s500_Cm10_ramdisk" revision="master" />
+</manifest>
